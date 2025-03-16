@@ -2014,6 +2014,25 @@
         "internet_users":38.0
     },
     {
+        "name":"Laos",
+        "capital":"Vientiane",
+        "region":"Asia",
+        "area":236800.0,
+        "population":7276.0,
+        "pop_density":31.5,
+        "urban_population":35.6,
+        "pop_growth":1.5,
+        "urban_population_growth":3.2,
+        "gdp":17954.0,
+        "gdp_per_capita":2542.5,
+        "gdp_growth":6.2,
+        "average_life_expectancy":67.4,
+        "life_expectancy_male":65.7,
+        "life_expectancy_female":69.2,
+        "unemployment":0.6,
+        "internet_users":25.5
+    },
+    {
         "name":"Latvia",
         "capital":"Riga",
         "region":"Europe",
