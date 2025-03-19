@@ -684,6 +684,25 @@
         "internet_users":91.0
     },
     {
+        "name":"Cape Verde",
+        "capital":"Praia",
+        "region":"Africa",
+        "area":4033.0,
+        "population":556.0,
+        "pop_density":138.0,
+        "urban_population":66.2,
+        "pop_growth":1.2,
+        "urban_population_growth":2.0,
+        "gdp":1977.0,
+        "gdp_per_capita":3635.4,
+        "gdp_growth":5.1,
+        "average_life_expectancy":72.5,
+        "life_expectancy_male":69.2,
+        "life_expectancy_female":75.9,
+        "unemployment":12.3,
+        "internet_users":57.2
+    },
+    {
         "name":"Cayman Islands",
         "capital":"George Town",
         "region":"Americas",
@@ -948,6 +967,25 @@
         "life_expectancy_female":81.8,
         "unemployment":1.9,
         "internet_users":80.7
+    },
+    {
+        "name":"DR Congo",
+        "capital":"Kinshasa",
+        "region":"Africa",
+        "area":2344858.0,
+        "population":89561.0,
+        "pop_density":39.5,
+        "urban_population":45.0,
+        "pop_growth":3.2,
+        "urban_population_growth":4.6,
+        "gdp":47146.0,
+        "gdp_per_capita":560.8,
+        "gdp_growth":5.8,
+        "average_life_expectancy":60.2,
+        "life_expectancy_male":58.7,
+        "life_expectancy_female":61.7,
+        "unemployment":4.2,
+        "internet_users":8.6
     },
     {
         "name":"Denmark",
